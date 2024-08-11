@@ -1,6 +1,6 @@
 # Python Automation Scripts
 
-- This repository contains a collection of Python scripts for automating various tasks in AWS.
+- This repository contains a collection of Python scripts for automating various tasks in AWS 
 
 ## Contents
 
